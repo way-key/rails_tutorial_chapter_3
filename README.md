@@ -1,5 +1,5 @@
 # Ruby on Rails チュートリアルのサンプルアプリケーション
-## 第3〜5章
+## 第3〜6章
 
 - 開発環境：aws cloud9
 - rails version:5.1.7
